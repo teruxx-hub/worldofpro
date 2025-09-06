@@ -78,7 +78,7 @@
 
     <div class="price">💰 Price: $8,999 (or Best Offer)</div>
 
-    <a href="mailto:your-email@example.com" class="btn">📩 Contact to Buy — Serious Offers Only</a>
+    <a href="mailto: dv.palmer20@gmail.com" class="btn">📩 Contact to Buy — Serious Offers Only</a>
 
     <p class="footer">🔒 All transactions secured via Escrow.com</p>
   </div>
